@@ -1,0 +1,433 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.navbar{
+
+    background-color: hsl(180, 41%, 97%);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+ a{
+    margin-left: 15px;
+    text-decoration: none;
+    color: gray;
+   
+}
+.img{
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+}
+.container{
+    width: 75vw;
+    margin: auto;
+    
+}
+
+.container h1{
+color: #00b39b;
+display: flex;
+justify-content: center;
+margin-top: 50px;
+}
+
+.paragraph{
+    display: flex;
+    color: gray;
+    margin-top: 50px;
+    font-size:15px
+
+    
+    
+    
+}
+.patient{
+    background-color:#00b39b;
+    width: 300px;
+    color: white;
+    font-size: larger;
+    margin-top: 50px;
+    height: 290px;
+    border-radius: 10px;
+    padding: 25px;
+    margin-left: 20px;
+    font-family: Work Sans,Arial,sans-serif;
+    
+}
+.patient img{
+    margin-left: 1px;
+}
+.patient h2{
+    margin-bottom: 10px;
+}
+.select1{
+    color: white;
+    margin-top: 100px;
+    margin-left: 20px;
+    
+}
+.parent{
+    display: flex;
+    justify-content: center;
+    
+}
+.doctor{
+    background-color:#3d83df;
+    width: 300px;
+    color: white;
+    font-size: larger;
+    margin-top: 50px;
+    height: 290px;
+    border-radius: 10px;
+    padding: 25px;
+    margin-left: 20px;
+    font-family: Work Sans,Arial,sans-serif;
+  
+
+}
+.clinic{
+    background-color:#1b2734;
+    width: 300px;
+    color: white;
+    font-size: larger;
+    margin-top: 50px;
+    height: 290px;
+    border-radius: 10px;
+    padding: 25px;
+    margin-left: 20px;
+    font-family: Work Sans,Arial,sans-serif;
+
+}
+.select2{
+    color: white;
+    margin-top: 100px;
+}
+.parent2{
+    display: flex;
+  
+}
+.logo{
+    justify-content: center;
+    margin-left: 90px;
+    margin-top: 50px;
+    word-spacing: 30px;
+    }
+    .company{
+        font-size: 13px;
+        
+    }
+    
+        
+    
+    
+  .div1{
+    background-color: white;
+    border: 1px black solid ;
+    height: 200px;
+    width: 200px;
+
+  }
+  .div2{
+    background-color: white;
+    border: 1px black solid ;
+    width: 200px;
+    height: 200px;
+    
+  }
+  .div3{
+    background-color: white;
+    border: 1px black solid ;
+    width: 200px;
+    height: 200px;
+  }
+  .div4{
+    background-color: white;
+    border: 1px black solid ;
+    width: 200px;
+    height: 200px;
+    
+  }
+
+.bloc {
+    display: flex;
+    height: 68vh;
+    padding-top: 20px;
+    background-color: #dbf7f6;
+}
+
+.vert {
+    flex: 1;
+    overflow: hidden;
+}
+
+.noir {
+    flex: 1;
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 150px;
+    padding-right: 90px;
+}
+
+.box {
+    height: 220px;
+    width: 200px;
+    background-color:white;
+    margin-left: 30px;
+    border-radius: 5px;
+}
+.box img{
+    margin-left: 60px;
+    margin-top: 35px;
+    margin-bottom: 15px;
+}
+.box h2{
+    margin-left: 28px;
+    color: #11b6a4;
+}
+.box p{
+    font-size: 11px;
+    margin-left: 12px;
+    margin-top: 13px;
+    color: gray;
+}
+.vert img {
+    position: relative ;
+    top: 90px;
+    margin-left: 120px;
+    width: 400px;
+}
+.vert h1 {
+    color: #11b6a4;
+    display: flex;
+    justify-content: center;
+    margin-left: 200px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+.vert p{
+display: flex;
+justify-content: center;
+margin-left: 200px;
+color: grey;
+
+}
+.container3{
+    width: 75vw;
+    margin: auto;
+    
+
+}
+.container3 h2 {
+    
+    margin-top: 90px;
+    display: flex;
+    justify-content: center;
+    color: #11b6a4;
+    font-size: 28px;  
+}
+.container3 p{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    color: gray;
+    
+}
+.bouton-bleu{
+   
+        background-color:#3d83df;
+        color: white;
+        margin: 5px;
+        padding: 2px 8px;
+        border-radius: 3px;
+        cursor: pointer;
+        border: none;
+        margin-left: 100px;
+        margin-top: 10px;
+        
+      }
+      .warsaw{
+        border-radius: 20px;
+        border: none;
+        margin-top: 60px;
+        margin-left: 60px;
+        
+        
+      }
+      .warsaw h3{
+        color: gray;
+        font-size: 25px;
+        margin-top: 20px;
+      }
+      .aa{
+        display: flex;
+      }
+      .taksim{
+        display: flex;
+        justify-content: center;
+        justify-content: space-evenly;
+      }
+      .barcelona{
+        border-radius: 20px;
+        border: none;
+        margin-top: 60px;
+        margin-left: 60px;
+      }
+        
+      .barcelona h3{
+        color: gray;
+        font-size: 20px;
+        margin-top: 20px;
+
+      }
+      .munich{
+        border-radius: 20px;
+        border: none;
+        margin-top: 60px;
+        margin-left: 60px;
+      }
+        
+      .munich h3{
+        color: gray;
+        font-size: 20px;
+        margin-top: 20px;
+
+      }
+      .taksim2{
+        display: flex;
+        justify-content: center;
+        justify-content: space-evenly;
+     
+
+      }
+      .istanbul{
+        border-radius: 20px;
+        border: none;
+        margin-top: 60px;
+        margin-left: 60px;
+      }
+        
+      .istanbul h3{
+        color: gray;
+        font-size: 20px;
+        margin-top: 20px;
+
+      }
+      .Rome{
+        border-radius: 20px;
+        border: none;
+        margin-top: 60px;
+        margin-left: 60px;
+      }
+        
+      .Rome h3{
+        color: gray;
+        font-size: 20px;
+        margin-top: 20px;
+
+      }
+      .Bologna{
+        border-radius: 20px;
+        border: none;
+        margin-top: 60px;
+        margin-left: 60px;
+      }
+        
+      .Bologna h3{
+        color: gray;
+        font-size: 20px;
+        margin-top: 20px;
+      }
+      .taksim3{
+        display: flex;
+        justify-content: center;
+        justify-content: space-evenly;
+      }
+      .Curitiba{
+        border-radius: 20px;
+        border: none;
+        margin-top: 60px;
+        margin-left: 60px;
+      }
+        
+      .Curitiba h3{
+        color: gray;
+        font-size: 20px;
+        margin-top: 20px;
+
+      }
+      
+      .riodejaneiro{
+        border-radius: 20px;
+        border: none;
+        margin-top: 60px;
+        margin-left: 60px;
+      }
+        
+      .riodejaneiro h3{
+        color: gray;
+        font-size: 14px;
+        margin-top: 20px;
+      }
+      .Mexicocity{
+        border-radius: 20px;
+        border: none;
+        margin-top: 60px;
+        margin-left: 60px;
+      }
+        
+      .Mexicocity h3{
+        color: gray;
+        font-size: 18px;
+        margin-top: 20px;
+      }
+      .bogota{
+        border-radius: 20px;
+        border: none;
+        margin-top: 60px;
+        margin-left: 60px;
+      }
+        
+      .bogota h3{
+        color: gray;
+        font-size: 18px;
+        margin-top: 20px;
+      }
+      .taksim4 h2{
+        color: black;
+      }
+      .taksim4 .bouton-blau{
+        
+        background-color:#3d83df;
+        color: white;
+        margin: 5px;
+        padding: 2px 8px;
+        border-radius: 3px;
+        cursor: pointer;
+        border: none;
+        margin-left: 450px;
+        margin-top: 30px;
+        display: flex;
+        justify-content: center;
+        
+      }
+
+    
+
+
+     
+      
+      
+      
+      
+      
+      
+
+
+
+
+    
+
+
